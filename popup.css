@@ -1,0 +1,31 @@
+.body{
+    width: 144px;
+    font-size: 14px;
+    padding: 10px;
+}
+
+.github{
+    width: 16px;
+    float: right;
+}
+
+.image{
+    width: 100%;
+}
+
+.title{
+    font-weight: bold;
+}
+
+.name{
+    color: #000;
+    text-decoration: none;
+}
+
+.head{
+    margin-bottom: 18px;
+}
+
+.item{
+    margin-bottom: 3px;
+}
