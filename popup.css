@@ -24,8 +24,13 @@
 
 .head{
     margin-bottom: 18px;
+    width: 116px;
 }
 
 .item{
     margin-bottom: 3px;
+}
+
+.item a{
+    text-decoration: none;
 }
